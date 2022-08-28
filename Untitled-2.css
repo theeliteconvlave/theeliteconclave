@@ -73,6 +73,10 @@ p{
 
 }
 
+.img-gif{
+    border-radius: 50px;
+}
+
 .h1-title{
     text-align: center;
     margin: 5%;
@@ -188,7 +192,7 @@ p{
     /* border: solid black 2px; */
     text-align: center;
     /* margin: 1%; */
-    padding-bottom: 5%;
+    padding-bottom: 5% ;
    
 
 
